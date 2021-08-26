@@ -1,0 +1,18 @@
+Create map:
+http://geojson.io/#map=6/30.164/68.840
+
+
+
+Convert GeoJson to TopoJson:
+https://mapshaper.org/
+
+MapBox Studio:
+https://studio.mapbox.com/tilesets
+
+MapBox Studio Style:
+https://studio.mapbox.com/styles
+
+
+
+Pakistan TopoJson:
+https://github.com/deldersveld/topojson/tree/master/countries/pakistan
